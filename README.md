@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋   This is SNEHITH!
+
+### A passionate data storyteller from the world of Data, turning complex data into clear, actionable insights that drive smart decisions for better business.
+
+Please have a look at my profile. And I'm happy to connect with people and have quick chat!
+
+
+
 
 <!--
 **kathisnehith/kathisnehith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
