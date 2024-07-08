@@ -4,6 +4,9 @@
 
 Please have a look at my profile. And I'm happy to connect with people and have quick chat!
 
+Connect or mail me :
+
+<img src="https://github.com/kathisnehith/Portfolio/blob/c11a2632cb209ca388d08e00dd9910355d7a9ea1/images/LinkedIn_logo.png" width="50" height="50"/>      <img src="https://github.com/kathisnehith/Portfolio/blob/c11a2632cb209ca388d08e00dd9910355d7a9ea1/images/mail.png" width="50" height="50"/>
 
 
 
