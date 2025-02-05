@@ -5,13 +5,12 @@
 I’m passionate about turning raw data into actionable insights that drive impactful decisions. With 2 years of experience, I specialize in **data analytics, visualization, and predictive analytics** while exploring emerging technologies in **AI and automation**.  
 
 💡 **Current Focus:**  
-- Learning **Data Engineering** on **Google Cloud Platform** | To automate a task with script for productivity  
+- Learning **Data Engineering** on **Google Cloud Platform** | To automate a productive task for a realworld problem  
 - Working to Build AI agent with no code tool
 
-I'd love to connect with people and learn about their experiences
-#### 📫 **Let’s Connect:**  
+📫 I'd love to **connect** with people and learn about their experiences
 
-[<img src="https://github.com/kathisnehith/Portfolio/blob/c11a2632cb209ca388d08e00dd9910355d7a9ea1/images/LinkedIn_logo.png" width="40" height="40"/>](https://www.linkedin.com/in/snehithreddykathi/)      [<img src="https://github.com/kathisnehith/Portfolio/blob/c11a2632cb209ca388d08e00dd9910355d7a9ea1/images/mail.png" width="40" height="40"/>](mailto:kathisnehithreddy@gmail.com)
+[<img src="https://github.com/kathisnehith/Portfolio/blob/c11a2632cb209ca388d08e00dd9910355d7a9ea1/images/LinkedIn_logo.png" width="25" height="25"/>](https://www.linkedin.com/in/snehithreddykathi/)       [<img src="https://github.com/kathisnehith/Portfolio/blob/c11a2632cb209ca388d08e00dd9910355d7a9ea1/images/mail.png" width="25" height="25"/>](mailto:kathisnehithreddy@gmail.com)
 
 
 
