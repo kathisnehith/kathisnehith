@@ -1,12 +1,22 @@
-## Hi there 👋   This is SNEHITH!
+## 👋 Hi there! I'm **Snehith**  
+**Data Analyst | Aspiring AI Enthusiast | Problem Solver 🚀 | Quick learner 📈**  
 
-### A passionate data storyteller from the world of Data, turning complex data into clear, actionable insights that drive smart decisions for better business.
 
-Please have a look at my profile. And I'm happy to connect with people and have quick chat!
+#### 🌟 **About Me:**  
+I’m passionate about turning raw data into actionable insights that drive impactful decisions. With 2+ years of experience, I specialize in **data analytics, visualization, and predictive analytics** while exploring emerging technologies in **AI and automation**.  
 
-Connect or mail me :
+💡 **Current Focus:**  
+- Learning **real-time data engineering** solutions on **Google Cloud Platform**
+- To automate a task with script for productivity  
+- Working to Build AI agent    
 
-[<img src="https://github.com/kathisnehith/Portfolio/blob/c11a2632cb209ca388d08e00dd9910355d7a9ea1/images/LinkedIn_logo.png" width="50" height="50"/>](https://www.linkedin.com/in/snehithreddykathi/)      [<img src="https://github.com/kathisnehith/Portfolio/blob/c11a2632cb209ca388d08e00dd9910355d7a9ea1/images/mail.png" width="50" height="50"/>](mailto:kathisnehithreddy@gmail.com)
+### 🛠️ **My Tech Stack:** 
+[<img src="https://github.com/kathisnehith/Portfolio/blob/c11a2632cb209ca388d08e00dd9910355d7a9ea1/images/LinkedIn_logo.png" width="50" height="50"/>](https://www.linkedin.com/in/snehithreddykathi/) 
+
+I'd love to connect with people and learn about their experiences
+#### 📫 **Let’s Connect:**  
+
+[<img src="https://github.com/kathisnehith/Portfolio/blob/c11a2632cb209ca388d08e00dd9910355d7a9ea1/images/LinkedIn_logo.png" width="40" height="40"/>](https://www.linkedin.com/in/snehithreddykathi/)      [<img src="https://github.com/kathisnehith/Portfolio/blob/c11a2632cb209ca388d08e00dd9910355d7a9ea1/images/mail.png" width="40" height="40"/>](mailto:kathisnehithreddy@gmail.com)
 
 
 
