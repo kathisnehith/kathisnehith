@@ -5,8 +5,8 @@
 I’m passionate about turning raw data into actionable insights that drive impactful decisions. With 2 years of experience, I specialize in **data analytics, visualization, and predictive analytics** while exploring emerging technologies in **AI and automation**.  
 
 💡 **Current Focus:**  
-- Learning **Data Engineering** on **Google Cloud Platform** | To automate a productive task for a realworld problem  
-- Working to Build AI agent with no code tool
+- Learning **Data Engineering** on **Google Cloud Platform** | To automate a productive task for a realworld Challanges  
+- Working to Build AI agent without touching the line of code 
 
 📫 I'd love to **connect** with people and learn about their experiences
 
