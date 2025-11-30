@@ -1,12 +1,6 @@
 ## 👋 Hi there! I'm **Snehith**  
-**Data Analyst | Gen AI Enthusiast | Vibe Coder | Problem Solver 🚀 | Quick learner 📈**  
+**Developer | Gen AI Enthusiast | Vibe Coder | Problem Solver 🚀 | Quick learner 📈**  
 
-#### 🌟 **About Me:**  
-I’m passionate about turning raw data into actionable insights that drive impactful decisions. With 2 years of experience, I specialize in **data analytics, visualization, and predictive analytics** while exploring emerging technologies in **AI and automation**.  
-
-💡 **Current Focus:**  
-- Learning **Data Engineering** on **Google Cloud Platform** | To automate a productive task for a realworld Challanges  
-- Working on building an no-code AI agent 
 
 📫 I'd love to **connect** with people and learn about their experiences
 
